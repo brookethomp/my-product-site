@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "products.css" ?>
+<products>
+    <product>
+        <name>Ham and Gouda Cheese Sandwich</name>
+        <description>Ham and gouda cheese on sourdough bread with lettuce, tomato, and chipotle aioli.</description>
+        <price>10</price>
+        <categories>
+            <category>sandwich</category>
+            <category>lunch</category>
+        </categories>
+    </product>
+    <product>
+        <name>Turkey and Goat Cheese Sandwich</name>
+        <description>Turkey and goat cheese on sourdough bread with lettuce, tomato, and fig jam.</description>
+        <price>10</price>
+        <categories>
+            <category>sandwich</category>
+            <category>lunch</category>
+        </categories>
+    </product>
+    <product>
+        <name>Hummus and Veggie Sandwich</name>
+        <description>Hummus, carrots, radishes, lettuce, and tomato on wheat bread.</description>
+        <price>10</price>
+        <categories>
+            <category>sandwich</category>
+            <category>vegetarian</category>
+        </categories>
+    </product>
+    <product>
+        <name>BAAT Sandwich</name>
+        <description>Turkey, avocado, tomato, and bacon on sourdough with lettuce, mayo, and chipotle aioli.</description>
+        <price>10</price>
+        <categories>
+            <category>sandwich</category>
+            <category>lunch</category>
+        </categories>
+    </product>
+    <product>
+        <name>Potato Chips</name>
+        <description>Crispy, salty potato chips.</description>
+        <price>5</price>
+        <categories>
+            <category>side</category>
+            <category>snack</category>
+        </categories>
+    </product>
+    <product>
+        <name>Honeycrisp Apple</name>
+        <description>Honeycrisp apple.</description>
+        <price>5</price>
+        <categories>
+            <category>side</category>
+            <category>healthy</category>
+        </categories>
+    </product>
+    <product>
+        <name>Fruit Cup</name>
+        <description>Strawberries and blueberries.</description>
+        <price>5</price>
+        <categories>
+            <category>side</category>
+            <category>healthy</category>
+        </categories>
+    </product>
+    <product>
+        <name>French Fries</name>
+        <description>Crispy, salty fries.</description>
+        <price>5</price>
+        <categories>
+            <category>side</category>
+            <category>snack</category>
+        </categories>
+    </product>
+</products>
